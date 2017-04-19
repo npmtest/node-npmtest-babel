@@ -1,6 +1,6 @@
 # npmtest-babel
 
-#### test coverage for  [babel (v6.23.0)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel.svg)](https://travis-ci.org/npmtest/node-npmtest-babel)
+#### basic test coverage for  [babel (v6.23.0)](https://babeljs.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-babel.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babel) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babel.svg)](https://travis-ci.org/npmtest/node-npmtest-babel)
 
 #### Turn ES6 code into readable vanilla ES5 with source maps
 
